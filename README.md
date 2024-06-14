@@ -1,7 +1,4 @@
-<h1 align="centre">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg-herokwapp.com/?
-font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines= Hi+There!+👋;+I'm+The+Red+Dev+Cyrillia!;" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=35&duration=4000&pause=1000&color=F70407&vCenter=true&random=false&width=435&lines=Hi+There!👋+I'm+Cyrillia!" alt="Typing SVG" /></a>
 
 # 💫 About Me:
 👋 Hi, I’m @TheREDdevCyrillia<br>- 👀 I’m interested in AI, Blockchain Development & Programming<br>- 🌱 I’m currently learning New Skills<br>- 💞️ I’m looking to collaborate on anything blockchain related<br>- 📫 How to reach me <br>E -mail: thereddevcyrillia@gmail.com <br>WhatsApp +27725912168 <br>- 😄 Pronouns: She/Hers<br>- ⚡ Fun fact: I love Code<br>
