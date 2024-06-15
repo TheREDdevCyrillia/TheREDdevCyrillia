@@ -11,8 +11,8 @@
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/cyrillia.potgieter.7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cyrillia-olivari-739721158/) 
 
-# ⚡Project Links⚡
-[Ardenia](https://aradena.io/home/) [GodsUnchained](https://godsunchained.com/) [GuildofGuardians](https://www.guildofguardians.com/) [Illuvium](https://illuvium.io/) [ProjectKyzen](https://www.projectkyzen.io/)
+# ⚡Projects on Immutable X platforms⚡
+[Ardenia](https://aradena.io/home/) [GodsUnchained](https://godsunchained.com/) [GuildofGuardians](https://www.guildofguardians.com/) [Illuvium](https://illuvium.io/) [ProjectKyzen](https://www.projectkyzen.io/) [Boomland](https://boomland.io/) [Treeverse](https://treeverse.net/)
 
 
 # 💻 Programing Languages: 
