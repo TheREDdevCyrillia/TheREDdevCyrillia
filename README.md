@@ -5,7 +5,7 @@
 <h3 align="Left"> 👀 Looking for my next role! 👀 </h3>
 <br>
 <div align="Left"> 
-👀 I’m interested in AI, Blockchain Development & Programming<br>💞️ I’m looking to collaborate on anything blockchain related<br>- 📫 How to reach me <br>E-mail: thereddevcyrillia@gmail.com <br>- 😄 Pronouns: She/Hers<br>- ⚡ Fun fact: I love Code<br>
+👀 I’m interested in AI, Blockchain Development & Programming<br>💞️ I’m looking to collaborate on anything blockchain related<br>- 📫 How to reach me <br>E-mail: thereddevcyrillia@gmail.com <br>- 😄 Pronouns: She/Hers<br>
 
 
 # 🌐 Socials:
