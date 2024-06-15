@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=35&duration=4000&pause=1000&color=F70407&vCenter=true&random=false&width=435&lines=Hi+There!👋+I'm+Cyrillia!💻" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tangerine&size=35&duration=4000&pause=1000&color=F70407&vCenter=true&random=false&width=435&lines=Hi+There!👋+I'm+Cyrillia!💻" alt="Typing SVG" /></a>
 
 ![Cyrillia's GitHub stats](https://github-readme-stats.vercel.app/api?username=thereddevcyrillia&show_icons=true&theme=transparent)
 
