@@ -2,8 +2,11 @@
 
 ![Cyrillia's GitHub stats](https://github-readme-stats.vercel.app/api?username=thereddevcyrillia&show_icons=true&theme=transparent)
 
-# 💫 About Me:
-👋 Hi, I’m @TheREDdevCyrillia<br>- 👀 I’m interested in AI, Blockchain Development & Programming<br>- 🌱 I’m currently learning New Skills<br>- 💞️ I’m looking to collaborate on anything blockchain related<br>- 📫 How to reach me <br>E -mail: thereddevcyrillia@gmail.com <br>WhatsApp +27725912168 <br>- 😄 Pronouns: She/Hers<br>- ⚡ Fun fact: I love Code<br>
+
+<h3 align="center"> 👀 Looking for my next role! 👀 </h3>
+<br>
+<div align="center"> 
+👀 I’m interested in AI, Blockchain Development & Programming<br>💞️ I’m looking to collaborate on anything blockchain related<br>- 📫 How to reach me <br>E-mail: thereddevcyrillia@gmail.com <br>WhatsApp +27725912168 <br>- 😄 Pronouns: She/Hers<br>- ⚡ Fun fact: I love Code<br>
 
 
 ## 🌐 Socials:
