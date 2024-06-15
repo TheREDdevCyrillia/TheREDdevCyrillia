@@ -5,10 +5,10 @@
 ![Cyrillia's GitHub stats](https://github-readme-stats.vercel.app/api?username=thereddevcyrillia&show_icons=true&theme=transparent)
 
 
-<h3 align="center"> 👀 Looking for my next role! 👀 </h3>
+<h3 align="Left"> 👀 Looking for my next role! 👀 </h3>
 <br>
-<div align="center"> 
-👀 I’m interested in AI, Blockchain Development & Programming<br>💞️ I’m looking to collaborate on anything blockchain related<br>- 📫 How to reach me <br>E-mail: thereddevcyrillia@gmail.com <br>WhatsApp +27725912168 <br>- 😄 Pronouns: She/Hers<br>- ⚡ Fun fact: I love Code<br>
+<div align="Left"> 
+👀 I’m interested in AI, Blockchain Development & Programming<br>💞️ I’m looking to collaborate on anything blockchain related<br>- 📫 How to reach me <br>E-mail: thereddevcyrillia@gmail.com <br>- 😄 Pronouns: She/Hers<br>- ⚡ Fun fact: I love Code<br>
 
 
 ## 🌐 Socials:
